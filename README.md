@@ -1,1 +1,1 @@
-# control-repo
+# This is a Puppet Learning Repo
